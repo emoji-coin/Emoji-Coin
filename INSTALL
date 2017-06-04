@@ -1,0 +1,9 @@
+Building Emoji
+
+See doc/readme-qt.rst for instructions on building Emoji QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Emoji.
+
+See doc/build-*.txt for instructions on building emojid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Emoji.
